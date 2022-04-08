@@ -28,12 +28,13 @@ nav .nav-right-section a {
   color: #72757a;
 }
 nav .nav-right-section .menu-icon {
-  background-image: url('https://www.svgrepo.com/show/29763/menu.svg');
+  background-image: url('../svg/menu.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
   width: 24px;
   height: 24px;
+  color: red;
 }
 nav .nav-right-section img {
   border-radius: 50%;
